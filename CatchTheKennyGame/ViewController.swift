@@ -9,7 +9,7 @@ import UIKit
 
 class ViewController: UIViewController {
     
-    //Variables
+    //Variables Place
     var score = 0
     var timer = Timer()
     var counter = 0
